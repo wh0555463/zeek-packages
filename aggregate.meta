@@ -1,0 +1,6 @@
+[wh0555463/json-streaming-logs]
+description = JSON streaming logs
+tags = logs, json, streaming, stream, filebeat, splunk_forwarder, logstash
+script_dir = scripts
+version = master
+url = https://github.com/wh0555463/json-streaming-logs
